@@ -38,7 +38,7 @@
      
 <br/>
 
-### 📑 설계     <a href="/leemyunga/CarrotFarm/wiki/design" >상세보기 - WIKI 이동</a>
+### 📑 설계     <a href="/wiki/design" >상세보기 - WIKI 이동</a>
 * 프로젝트 제안서
 * 요구사항 정의서
 * UI 설계서
@@ -46,11 +46,11 @@
 * 인터페이스 정의서
 <br/>
 
-### 🌳 프로젝트 구조     <a href="/leemyunga/CarrotFarm/wiki/Structure" >상세보기 - WIKI 이동</a>
+### 🌳 프로젝트 구조     <a href="/wiki/Structure" >상세보기 - WIKI 이동</a>
 
 <br/>
 
-### 📌 주요 기능     <a href="/leemyunga/CarrotFarm/wiki/MainService" >상세보기 - WIKI 이동</a>
+### 📌 주요 기능     <a href="/wiki/MainService" >상세보기 - WIKI 이동</a>
 *  농구 경기 모집
 *  경기 후기
 *  경기장
@@ -61,7 +61,7 @@
 
 <br/>
 
-### 📌 담당 구현 기능     <a href="/leemyunga/CarrotFarm/wiki/MyService" >상세보기 - WIKI 이동</a>
+### 📌 담당 구현 기능     <a href="/wiki/MyService" >상세보기 - WIKI 이동</a>
 *  농구 경기 모집
 *  리뷰 
 *  알림
