@@ -38,7 +38,7 @@
      
 <br/>
 
-### 📑 설계     <a href="/wiki/design" >상세보기 - WIKI 이동</a>
+### 📑 설계     <a href="../wiki/design" >상세보기 - WIKI 이동</a>
 * 프로젝트 제안서
 * 요구사항 정의서
 * UI 설계서
