@@ -38,7 +38,7 @@
      
 <br/>
 
-### 📑 설계     <a href="../wiki/design" >상세보기 - WIKI 이동</a>
+### 📑 설계     <a href=".../wiki/design" >상세보기 - WIKI 이동</a>
 * 프로젝트 제안서
 * 요구사항 정의서
 * UI 설계서
@@ -46,7 +46,7 @@
 * 인터페이스 정의서
 <br/>
 
-### 🌳 프로젝트 구조     <a href="/wiki/Structure" >상세보기 - WIKI 이동</a>
+### 🌳 프로젝트 구조     <a href=".../wiki/Structure" >상세보기 - WIKI 이동</a>
 
 <br/>
 
